@@ -18,7 +18,7 @@ Some of the tasks I performed in the initial phase include:
 - update employees email and phone number
 
 ## Data Analysis
-see full SQL file here: https://github.com/Mary-Ukoh/Maji-Ndogo-Water-Analysis/blob/main/Maji%20Ndogo%20Water%20analysis.ipynb
+See full SQL file here: https://github.com/Mary-Ukoh/Maji-Ndogo-Water-Analysis/blob/main/Maji%20Ndogo%20Water%20analysis.ipynb
 
 
 
