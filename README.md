@@ -41,6 +41,10 @@ query
 value
 ![](pop_figure.png)
 
+## Visualization
+I used powerbi to create insightful visaulizatuion capturing different data point and tell compelling story about Maji Ndogo Water resources
+Click the link to see report here: https://www.novypro.com/profile_projects/maryhenry  
+
 
 
 
