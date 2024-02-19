@@ -13,13 +13,18 @@ The modellling ..........![](DBSQL.jpg)
 
 
 ## Water Sources
-syntax
+query
 ![](type_of_water_source.png)
 result
 ![](water_source_types.png)
 
+
+## Locations
+query
+![](water_source_location_query.png)
+
 ## Population of People With Access to Water
-syntax
+query
 ![](population.png)
 value
 ![](pop_figure.png)
