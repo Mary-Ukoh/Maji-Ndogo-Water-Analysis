@@ -12,4 +12,8 @@ The database contains data records of water survey for the analysis
 The modellling ..........![](DBSQL.jpg)
 
 
+Population Value
+![](pop_figure.png)
+
+
 
