@@ -10,7 +10,7 @@ Conducted a vivid investigation on water resources in Maji Ndogo
 ## Description
 Through rigorous data collection and analysis, this study aims to shed light on the current state of water access in Maji Ndogo, identifying gaps, challenges, and opportunities for improvement. By synthesizing empirical evidence and community insights, the project endeavors to formulate actionable recommendations tailored to address the pressing water access issues faced by the community. Ultimately, the overarching goal is to contribute to the restoration of access to basic water services, fostering resilience and sustainability in the face of the ongoing water crisis.
 
-This analysis serves as a catalyst for informed decision-making and targeted interventions, emphasizing the urgency of addressing water access challenges to safeguard the health, dignity, and rights of Maji Ndogo's residents. By harnessing the power of data-driven insights and community engagement, we endeavor to pave the way towards a future where equitable access to clean and safe water is a reality for all.
+This analysis serves as a catalyst for informed decision-making and targeted interventions, emphasizing the urgency of addressing water access challenges to safeguard the health, dignity, and rights of Maji Ndogo's residents. By harnessing the power of data-driven insights and community engagement, I endeavor to pave the way towards a future where equitable access to clean and safe water is a reality for all.
 
 
 ## Modelling
@@ -47,9 +47,9 @@ value
 ![](pop_figure.png)
 
 ## Visualization
-In the exploration of Maji Ndogo's water resources, Power BI has been instrumental in crafting compelling visualizations that illuminate key data points and narratives. Through interactive and insightful visual representations, we have embarked on a journey to unravel the complexities of water access within the community.
+In the exploration of Maji Ndogo's water resources, Power BI has been instrumental in crafting compelling visualizations that illuminate key data points and narratives. Through interactive and insightful visual representations, I have embarked on a journey to unravel the complexities of water access within the community.
 This visualization not only highlights the availability of different water sources but also underscores the disparities in access and reliability across the community.
-Click the link to see report here: https://www.novypro.com/profile_projects/maryhenry  
+Click this link to see report here: https://www.novypro.com/profile_projects/maryhenry  
 
 
 
