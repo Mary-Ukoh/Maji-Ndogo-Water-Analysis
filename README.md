@@ -22,6 +22,8 @@ result
 ## Locations
 query
 ![](water_source_location_query.png)
+result
+![](water_source_by_location_type.png)
 
 ## Population of People With Access to Water
 query
