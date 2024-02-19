@@ -1,6 +1,6 @@
 
 # Maji Ndogo Water Analysis
-![](Intro.png)
+![](intro.jpeg)
 Conducted a vivid investigation on water resources in Maji Ndogo
 
 
