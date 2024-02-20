@@ -14,7 +14,7 @@ This analysis serves as a catalyst for informed decision-making and targeted int
 
 
 ## Modelling
-In the data analysis of Maji Ndogo's water resources, we have utilized a star schema model comprising both dimension and fact tables. This schema architecture is pivotal in organizing and structuring the data to facilitate efficient querying, analysis, and visualization.
+In the data analysis of Maji Ndogo's water resources, I utilized a star schema model comprising both dimension and fact tables. This schema architecture is pivotal in organizing and structuring the data to facilitate efficient querying, analysis, and visualization.
 ![](DBSQL.jpg)
 
 
